@@ -1,4 +1,4 @@
-# Lean 4 script that removes trailing spaces in `.lean` files.
+# Lean 4 script that removes trailing spaces in `.lean` files
 
 Run with a single command line argument: path to the directory that you want `trimmer` to traverse (recursively).
 
